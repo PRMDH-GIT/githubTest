@@ -1,6 +1,1 @@
 this MergeFile.txt file has been created from the vs code, to merge the file to main branch.
-<<<<<<< HEAD
-=======
-
-this file has been merged to the main branch.
->>>>>>> modify
