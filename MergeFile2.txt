@@ -1,1 +1,3 @@
 this MergeFile.txt file has been created from the vs code, to merge the file to main branch.
+
+This File has been merged to the main branch sucessfully.
